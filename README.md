@@ -12,6 +12,8 @@ Dana wants to present UFO sightings data in a table along with her article in a 
 * **Challenge Files:** app.js, index.html, style.css
 * **Softwares/Languages:** JavaScript, HTML, CSS
 
+**Link to Web App:** https://sanketkumaronline.github.io/UFOs/index.html
+
 ## Description
 
 The UFO sigtings data is presented in a tablular format just below the news article. There are seven columns in the table:
